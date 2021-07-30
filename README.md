@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hey There 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=jiangtj&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangtj&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangtj&langs_count=8&exclude_repo=jiangtj.github.io&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=Java)
 ![](https://img.shields.io/badge/-Spring-75F33A?style=flat-square&logo=Spring)
