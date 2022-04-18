@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 # 另一个仓库
 
-如果你来着中国, 可以访问我的[gitee账户](https://gitee.com/jiangtj)获取源码, 我仍然以GitHub为主, 因为它能提供CI Page等服务且更优于gitee, 但已做好完整的镜像备份, 确保如果被封锁, 源码不丢失
+如果你来着中国, 可以访问我的[gitee账户](https://gitee.com/jiangtj)获取源码, 我仍然以GitHub为主, 因为它能提供更好的CI Page等服务, 但已做好完整的镜像备份, 确保如果被封锁, 源码不丢失
